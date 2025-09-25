@@ -37,11 +37,9 @@ cd Speed-Tester
 ```
 
 2. Make The Script Executable:
-```bash chmod +x speedtester.sh
-```
+```bash chmod +x speedtester.sh```
 
 3. Run The Script
-```bash ./speedtester.sh
-```
+```bash ./speedtester.sh```
 
 Thanks For Using It. Leave A Start If You Like It.
